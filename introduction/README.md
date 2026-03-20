@@ -6,12 +6,12 @@ We'll then discuss evolutionary computation in general and why we're studying
 this field. Using Julia and Jupyter, we'll write an example evolutionary
 algorithm and run it on toy problems.
 
-1. [Tools and format of this class](https://d9w.github.io/evolution/introduction/1_tools.html)
-2. [Overview of Evolutionary Computation](https://d9w.github.io/evolution/introduction/2_overview.html)
-3. [Evolutionary Algorithms](https://github.com/d9w/evolution/blob/master/introduction/evolutionary_algorithms.ipynb)
+1. [Tools and format of this class](https://giorgia-nadizar.github.io/evolution/introduction/1_tools.html)
+2. [Overview of Evolutionary Computation](https://giorgia-nadizar.github.io/evolution/introduction/2_overview.html)
+3. [Evolutionary Algorithms](https://github.com/giorgia-nadizar/evolution/blob/spring26/introduction/evolutionary_algorithms.ipynb)
 
 <br>
-[Evolutionary Algorithms on Colab](https://colab.research.google.com/github/d9w/evolution/blob/master/introduction/evolutionary_algorithms.ipynb)
+[Evolutionary Algorithms on Colab](https://colab.research.google.com/github/giorgia-nadizar/evolution/blob/spring26/introduction/evolutionary_algorithms.ipynb)
 
 
 2020 Videos:

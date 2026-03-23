@@ -1,6 +1,6 @@
 # Evolutionary Computation
 
-[repository](https://github.com/giorgia-nadizar/evolution/tree/spring26) | [website](https://giorgia-nadizar.github.io/evolution/)
+[repository](https://github.com/giorgia-nadizar/evolution/) | [website](https://giorgia-nadizar.github.io/evolution/)
 
 This is a course on evolutionary computation. We focus specifically on the
 evolution of agents with a final project on research topics in evolution.

@@ -8,10 +8,10 @@ algorithm and run it on toy problems.
 
 1. [Tools and format of this class](https://giorgia-nadizar.github.io/evolution/introduction/1_tools.html)
 2. [Overview of Evolutionary Computation](https://giorgia-nadizar.github.io/evolution/introduction/2_overview.html)
-3. [Evolutionary Algorithms](https://github.com/giorgia-nadizar/evolution/blob/spring26/introduction/evolutionary_algorithms.ipynb)
+3. [Evolutionary Algorithms](https://github.com/giorgia-nadizar/evolution/blob/master/introduction/evolutionary_algorithms.ipynb)
 
 <br>
-[Evolutionary Algorithms on Colab](https://colab.research.google.com/github/giorgia-nadizar/evolution/blob/spring26/introduction/evolutionary_algorithms.ipynb)
+[Evolutionary Algorithms on Colab](https://colab.research.google.com/github/giorgia-nadizar/evolution/blob/master/introduction/evolutionary_algorithms.ipynb)
 
 
 2020 Videos:
